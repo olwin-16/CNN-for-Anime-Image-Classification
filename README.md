@@ -90,9 +90,10 @@ A plot of the training and validation loss curves is generated to illustrate mod
 
 ## Clone the repository:
 
-bash
-git clone https://github.com/your-username/CNN_for_Anime_Image_Classification.git
+```bash
+git clone https://github.com/olwin-16/CNN_for_Anime_Image_Classification.git
 cd CNN_for_Anime_Image_Classification
+```
 
 ## Install dependencies:
 
