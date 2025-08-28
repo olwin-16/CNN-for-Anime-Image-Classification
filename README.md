@@ -21,10 +21,10 @@ This project develops and trains a Convolutional Neural Network (CNN) to classif
 
 ## Dataset Details
 
-**Source**: Dataset described in the paper [AniWho: A Quick and Accurate Way to Classify Anime Character Faces in Images](https://arxiv.org/pdf/2208.11012v3)
-**Contents**: Subset contains 100 images (50 per class) of two characters: Anastasia and Takao.
-**Format**: RGB images resized to 64x64 pixels.
-**License**: Dataset usage subject to original authors’ terms (see linked paper).
+- **Source**: Dataset described in the paper [AniWho: A Quick and Accurate Way to Classify Anime Character Faces in Images](https://arxiv.org/pdf/2208.11012v3)
+- **Contents**: Subset contains 100 images (50 per class) of two characters: Anastasia and Takao.
+- **Format**: RGB images resized to 64x64 pixels.
+- **License**: Dataset usage subject to original authors’ terms (see linked paper).
 
 ## CNN Architecture
 
